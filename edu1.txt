@@ -1,2 +1,4 @@
-first file changed
-this file was now changed from the CMD command
+$username = "complexless@administrator"
+$password = "colmege1323"
+
+DEF_INIT("localhost" , "HOST");
