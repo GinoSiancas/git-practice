@@ -1,4 +1,3 @@
-$username = "complexless@administrator"
-$password = "colmege1323"
+we have re-changed everything again!
 
-DEF_INIT("localhost" , "HOST");
+
